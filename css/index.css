@@ -3805,6 +3805,15 @@ figure.highlight pre .javascript .function {
   padding-bottom: 6px;
   overflow: visible;
   font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  margin-bottom: 10px;
+  min-height: 2.5em;
+  word-break: break-word;
+}
+@media (max-width: 768px) {
+  #page-header .site-title {
+    font-size: 1.5em;
+    line-height: 1.4;
+  }
 }
 #pagination .pagination {
   margin-top: 20px;
