@@ -3800,6 +3800,12 @@ figure.highlight pre .javascript .function {
 #nav .site-page:not(.child):hover:after {
   width: 100%;
 }
+#page-header .site-title {
+  line-height: 1.6;
+  padding-bottom: 6px;
+  overflow: visible;
+  font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
 #pagination .pagination {
   margin-top: 20px;
   text-align: center;
